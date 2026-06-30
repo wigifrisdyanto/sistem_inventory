@@ -1,3 +1,4 @@
+# sistem_inventory
 # Sejarah PT Sukses Maju Bersama
 
 PT Sukses Maju Bersama merupakan perusahaan yang bergerak di bidang teknologi informasi dengan fokus pada penyediaan dan pemasaran produk laptop berkualitas. Perusahaan didirikan dengan tujuan untuk memenuhi kebutuhan masyarakat akan perangkat teknologi yang modern, berkualitas, dan terjangkau.
@@ -25,4 +26,4 @@ Menjadi perusahaan teknologi terpercaya yang menghadirkan produk laptop berkuali
 6. Menciptakan nilai tambah bagi pelanggan, karyawan, mitra bisnis, dan masyarakat melalui produk serta layanan yang berkelanjutan.
 
 
-# sistem_inventory
+
